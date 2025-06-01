@@ -1,6 +1,6 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.net.HttpURLConnection; // created this to connect to AWS Metadata service
+import java.net.HttpURLConnection; // created this to connect to AWS Metadata service ..
 import java.net.URI;
 import java.net.URL;
 import org.json.JSONObject;
